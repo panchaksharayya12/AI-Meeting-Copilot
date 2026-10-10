@@ -27,7 +27,7 @@ export const LandingFooter: React.FC = () => {
             className="text-white bg-white/10 hover:bg-white hover:text-black px-3 py-1.5 rounded-lg transition-all flex items-center gap-1.5 font-medium"
             title="Download Word Document Report"
           >
-            📄 Report (.docx)
+            Report (.docx)
           </a>
           <a
             href="/downloads/AI_Meeting_Copilot_Presentation.pptx"
@@ -35,7 +35,7 @@ export const LandingFooter: React.FC = () => {
             className="text-white bg-white/10 hover:bg-white hover:text-black px-3 py-1.5 rounded-lg transition-all flex items-center gap-1.5 font-medium"
             title="Download PowerPoint Slide Deck"
           >
-            📊 Slides (.pptx)
+            Slides (.pptx)
           </a>
           <a href="#how-it-works" className="hover:text-white transition-colors">
             How It Works
