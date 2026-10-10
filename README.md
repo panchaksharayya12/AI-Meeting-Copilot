@@ -10,10 +10,10 @@
 
 | Deliverable | Direct Link | Description |
 | :--- | :--- | :--- |
-| 📄 **Project Report (.docx)** | [Download Word Document Report](https://raw.githubusercontent.com/panchaksharayya12/AI-Meeting-Copilot/main/docs/AI_Meeting_Copilot_Project_Report.docx) | Comprehensive, human-crafted academic & technical report |
-| 📊 **Presentation Slides (.pptx)** | [Download PowerPoint Deck](https://raw.githubusercontent.com/panchaksharayya12/AI-Meeting-Copilot/main/docs/AI_Meeting_Copilot_Presentation.pptx) | 16:9 Widescreen slide deck for viva/evaluation |
-| 💻 **GitHub Repository** | [github.com/panchaksharayya12/AI-Meeting-Copilot](https://github.com/panchaksharayya12/AI-Meeting-Copilot) | Full source code with commit history |
-| 🚀 **Live Production Deployment** | [ai-meeting-copilot.vercel.app](https://ai-meeting-copilot.vercel.app) | Live web application on Vercel |
+| 🚀 **Live Production Website** | [ai-meeting-copilot-neon.vercel.app](https://ai-meeting-copilot-neon.vercel.app) | Live web application deployed on Vercel |
+| 💻 **GitHub Repository** | [github.com/panchaksharayya12/AI-Meeting-Copilot](https://github.com/panchaksharayya12/AI-Meeting-Copilot) | Source code repository |
+| 📄 **Project Report (.docx)** | [Download Word Document Report](https://ai-meeting-copilot-neon.vercel.app/downloads/AI_Meeting_Copilot_Project_Report.docx) • [GitHub Raw](https://raw.githubusercontent.com/panchaksharayya12/AI-Meeting-Copilot/main/docs/AI_Meeting_Copilot_Project_Report.docx) | Comprehensive, human-crafted academic & technical report |
+| 📊 **Presentation Slides (.pptx)** | [Download PowerPoint Deck](https://ai-meeting-copilot-neon.vercel.app/downloads/AI_Meeting_Copilot_Presentation.pptx) • [GitHub Raw](https://raw.githubusercontent.com/panchaksharayya12/AI-Meeting-Copilot/main/docs/AI_Meeting_Copilot_Presentation.pptx) | 16:9 Widescreen slide deck for viva/evaluation |
 
 ---
 
